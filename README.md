@@ -1,4 +1,8 @@
 # AB_Test_Analysis
-An A/B Test Analysis project done as part of the Udacity Data Analyst Nanodegree program.
+Udacity Data Analyst Nanodegree A/B Test Project
 
-The initial commit is just the base files given as part of the project, and then updates from there as I work to complete it.
+This is a project I did while completing the Udacity Data Analyst Nanodegree.
+A fictional website wanted to test a new version, so this walks through
+analyzing the data and performing a hypothesis test based on that data.
+The initial commit is just the base files given as part of the project,
+and then updates from there as I work to complete it.
